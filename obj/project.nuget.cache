@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uVeMR9Fqy+M=",
+  "dgSpecHash": "MZP1JqKgcK0=",
   "success": true,
-  "projectFilePath": "E:\\UDEMY\\ANGULAR\\Projects\\sample\\dating-app-c#\\API\\API.csproj",
+  "projectFilePath": "E:\\UDEMY\\ANGULAR C#\\Projects\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christopher\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Christopher\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
