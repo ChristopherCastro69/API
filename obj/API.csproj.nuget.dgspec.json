@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UDEMY\\Angular + C#\\Projects\\My-Dating-App\\Backend\\API\\API.csproj": {}
+    "E:\\UDEMY\\Angular-C#\\Projects\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\UDEMY\\Angular + C#\\Projects\\My-Dating-App\\Backend\\API\\API.csproj": {
+    "E:\\UDEMY\\Angular-C#\\Projects\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UDEMY\\Angular + C#\\Projects\\My-Dating-App\\Backend\\API\\API.csproj",
+        "projectUniqueName": "E:\\UDEMY\\Angular-C#\\Projects\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\UDEMY\\Angular + C#\\Projects\\My-Dating-App\\Backend\\API\\API.csproj",
+        "projectPath": "E:\\UDEMY\\Angular-C#\\Projects\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Christopher\\.nuget\\packages\\",
-        "outputPath": "E:\\UDEMY\\Angular + C#\\Projects\\My-Dating-App\\Backend\\API\\obj\\",
+        "outputPath": "E:\\UDEMY\\Angular-C#\\Projects\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christopher\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
-        "originalTargetFrameworks": ["net8.0"],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
@@ -30,7 +32,9 @@
           }
         },
         "warningProperties": {
-          "warnAsError": ["NU1605"]
+          "warnAsError": [
+            "NU1605"
+          ]
         },
         "restoreAuditProperties": {
           "enableAudit": "true",
