@@ -25,7 +25,7 @@ public class UsersController(DataContext context) : ControllerBase
         var user = await context.Users.FindAsync(id);
 
         if(user == null) return NotFound();
-        
+        //test git
         return user;
         
     }
